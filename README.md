@@ -1,4 +1,4 @@
-Pizzaria React com Tailwind CSS
+#Pizzaria React com Tailwind CSS
 
 Este é um projeto simples de uma Pizzaria desenvolvido com React e estilizado com Tailwind CSS. Ele serve como um exemplo básico de como criar uma aplicação web com essas tecnologias. Este README fornecerá instruções sobre como configurar o projeto e como começar a desenvolver.
 
