@@ -1,14 +1,14 @@
-#Pizzaria React com Tailwind CSS
+# Pizzaria React com Tailwind CSS
 
 Este é um projeto simples de uma Pizzaria desenvolvido com React e estilizado com Tailwind CSS. Ele serve como um exemplo básico de como criar uma aplicação web com essas tecnologias. Este README fornecerá instruções sobre como configurar o projeto e como começar a desenvolver.
 
-Pré-requisitos:
+# Pré-requisitos:
 
 Antes de começar, verifique se você tem as seguintes ferramentas instaladas em sua máquina:
 
 - Node.js: Certifique-se de que o Node.js está instalado na sua máquina. Você pode verificar a instalação executando node -v no seu terminal. Se não estiver instalado, faça o download e siga as instruções de instalação no site oficial.
 
-Configuração do Projeto:
+# Configuração do Projeto:
 
 Siga os passos abaixo para configurar o projeto localmente:
 
@@ -24,7 +24,7 @@ Siga os passos abaixo para configurar o projeto localmente:
 
    npm install
 
-Executando o Projeto:
+# Executando o Projeto:
 
 Após a configuração, você pode iniciar o projeto localmente. Execute o seguinte comando:
 
@@ -35,15 +35,15 @@ Isso iniciará o servidor de desenvolvimento e abrirá automaticamente a aplica�
 
 Sinta-se à vontade para personalizar a estrutura do projeto de acordo com suas necessidades.
 
-Estilização com Tailwind CSS:
+# Estilização com Tailwind CSS:
 
 Este projeto utiliza o Tailwind CSS para estilização. Você pode encontrar os estilos no arquivo src/index.css. Tailwind CSS é uma biblioteca utilitária que permite criar estilos rapidamente usando classes CSS pré-definidas.
 
-Contribuição:
+# Contribuição:
 
 Se você deseja contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório, fazer suas alterações e enviar uma solicitação pull. Estamos abertos a melhorias e sugestões!
 
-Licença:
+# Licença:
 
 Este projeto está licenciado sob a Licença MIT, o que significa que você pode usá-lo livremente em seus próprios projetos.
 
