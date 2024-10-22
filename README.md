@@ -1,6 +1,4 @@
-# Projeto PizzaReact
-
-## (EM DESENVOLVIMENTO)
+# Projeto PizzaReact (EM DESENVOLVIMENTO)
 
 Este é um projeto React simples para uma pizzaria fictícia, onde os usuários podem fazer login, criar uma conta e montar um carrinho de compras.
 
